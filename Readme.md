@@ -22,7 +22,7 @@ flask-server/
 
 ## Requirements
 
-* Python 3.x
+* Python 3.9 or higher
 * pip (Python package manager)
 
 ---
